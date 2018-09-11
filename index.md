@@ -12,7 +12,9 @@ Welcome to my corner of the internet.
 ### About
 * vikasagartha@gmail.com
 * [Resume][resume]
+* [Reviews][reviews] from past clients
 
 [setup]: /setup
 [sma]: /sma
 [resume]: /resume
+[reviews]: /reviews
