@@ -6,14 +6,14 @@ title: Resume
 * BS in Physics
 * BS in Computer Science
 
-### Software Work Experience (Reverse Chronological)
+### Software Experience (Reverse Chronological)
 * Full Stack Software Freelancer
 * Frontend Engineer @ Abakus Inc
 * Full Stack Dev @ 500 Miles
 * Linux Kernel Intern @ Yahoo 
 * Intern @ Stanford Linear Accelerator (SLAC)
 
-### Other Work Experience
+### Other Experience
 * Routesetter @ Bridges Rock Gym
 
 ### Software Skills
