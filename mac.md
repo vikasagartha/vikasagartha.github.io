@@ -1,5 +1,5 @@
 ---
-permalink: /sma
+permalink: /mac
 title: Moving Average Crossover
 ---
 
