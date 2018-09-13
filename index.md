@@ -5,7 +5,7 @@ title: Vikas Agartha
 ![Cant see the image? it's daniel woods climbing 'the process'](https://www.outsideonline.com/sites/default/files/styles/full-page/public/2017/09/06/daniel-woods-the-process-v16_h.jpg?itok=zCyaftUG)
 
 ### Software
-* [Simple Moving Averages][sma] (investing)
+* [Moving Average Crossover][mac]
 * [Make your own website just like this][setup]
 
 ### About
@@ -14,6 +14,6 @@ title: Vikas Agartha
 * [Reviews][reviews] from past clients
 
 [setup]: /setup
-[sma]: /sma
+[mac]: /mac
 [resume]: /resume
 [reviews]: /reviews
