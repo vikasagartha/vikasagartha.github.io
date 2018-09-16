@@ -23,7 +23,7 @@ I implemented a MAC command line tool in python which uses the [unofficial Robin
 * inputs: symbols, fast/slow rates
 * outputs: recommends enter/exit/hold.
 
-It has additional parameters to display charts and more.
+It has additional parameters which are documented in the [readme][readme].
 
 If you have feature requests or implementation thoughts, please open some issues on github or send me an email.
 
@@ -33,4 +33,5 @@ If you have feature requests or implementation thoughts, please open some issues
 [ta]: https://en.wikipedia.org/wiki/Technical_analysis
 [mac]: https://en.wikipedia.org/wiki/Moving_average_crossover
 [ma]: https://en.wikipedia.org/wiki/Moving_average
-[repo]: https://github.com/vikasagartha/agartha-sma
+[repo]: https://github.com/vikasagartha/moving-average-crossover
+[readme]: https://github.com/vikasagartha/moving-average-crossover/blob/master/README.md
