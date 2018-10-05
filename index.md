@@ -14,10 +14,12 @@ title: Vikas Agartha
 * vikasagartha@gmail.com
 * [Resume][resume]
 * [Reviews][reviews] from past clients
+* [Bio][bio]
 
 [creditDefault]: /creditDefault
 [setup]: /setup
 [mac]: /mac
+[bio]: /bio
 [resume]: /resume
 [reviews]: /reviews
 [robinhood]: /robinhood
