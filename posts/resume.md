@@ -18,6 +18,6 @@ title: Resume
 
 ### Software Skills
 * Data visualization (d3js)
-* Front end dev (react, redux, rxjs, recompose...)
+* Front end dev (react, angular, redux, rxjs, recompose, clojurescript, reagent, and more)
 * Machine learning (python)
 * Algorithmic trading (python)
