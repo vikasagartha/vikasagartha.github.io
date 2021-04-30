@@ -1,15 +1,4 @@
-const makeid = (length = 5) => {
-    var result           = [];
-    var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-    var charactersLength = characters.length;
-    for ( var i = 0; i < length; i++ ) {
-      result.push(characters.charAt(Math.floor(Math.random() *
- charactersLength)));
-   }
-   return result.join('');
-}
-
-const randomCheeses = () => fetch('https://dyuzzyu6bl.execute-api.us-east-1.amazonaws.com/dev/randomCheeses').then(d => d.json())
+import { bio } from './bio.js'
 
 const isEmpty = d => d == null || d === ''
 
@@ -59,8 +48,7 @@ const cheeseTable = {
 }
 
 const routes = {
-  '/': {view: cheeseTable, getData: randomCheeses},
-  '/cheeses': {view: cheeseTable, getData: randomCheeses},
+  '/': {view: bio},
 }
 
 const router = async () => {
@@ -91,7 +79,7 @@ const router = async () => {
 }
 
 const init = () => {
-  document.getElementById('cheese-library').innerHTML = `
+  document.getElementById('vikas-blog').innerHTML = `
     <div id='header'></div>
     <div id='content'></div>
   `
