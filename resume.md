@@ -7,7 +7,7 @@ title: Resume
 * BS in Computer Science
 
 ### Software Experience (Reverse Chronological)
-* Full Stack Software Freelancer
+* Full Stack Software Contractor
 * Frontend Engineer @ Abakus Inc
 * Full Stack Dev @ 500 Miles
 * Linux Kernel Intern @ Yahoo 
@@ -21,3 +21,4 @@ title: Resume
 * Front end dev (react, angular, redux, rxjs, recompose, clojurescript, reagent, and more)
 * Machine learning (python)
 * Algorithmic trading (python)
+* Serverless architecture (aws)
