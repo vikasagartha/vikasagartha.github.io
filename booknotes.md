@@ -7,6 +7,9 @@ title: Book Notes
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41QrKsS5LDL._SX327_BO1,204,203,200_.jpg" style='margin: 1em' width="250"/>
 
+*KG's genius extends far beyond basketball. He's a philosopher. I highly recommend this book.*
+
+* KG is generally viewed through the lens of basketball. This book shows the genius behind
 * I was deeply touched by his bond with Kobe. If you know me, you know how much ive idolized Kobe Bryant.
 * KG loved conversing with ball boys. The kids were mega psyched to meet an idol. They were full of positive energy. Lesson...don't look down on people, you miss the chance to receive positive energy. I've felt similarly about climbing culture. If you are elitist, quick to write off gumbies, avoid people of different cultures/politics, etc....you stand to lose positive energy. To me, the art of climbing movement transcends level, culture, politics, etc. I climb with all sorts of humans. I've heard (via 3rd person), "dude, i don't get why Vikas climbs with that guy...". Fine by me, ill take the free psych. When you've climbed long enough, you see climbing friends come and go. Injuries, physical burnout, driving fatigue, depression, workload, sickness, age, parenting responsibilities....humans fall into these traps. Psych is precious. Don't pass up psych.
 * I respect Charles Barkley. "Anytime you're Black, you got to stand up for other people. Cause Black people know what discrimination is like. And if you're in a position of power, you got to always stand up against discrimination. I'm never gonna sit back and let discrimination happen on my watch."
