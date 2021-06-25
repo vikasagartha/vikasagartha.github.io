@@ -10,11 +10,11 @@ title: Software
 * BS in Computer Science
 
 ### Experience
-* Full Stack Software Engineer @ Monger Inc 
+* Full Stack Software Engineer @ Monger Inc
 * Full Stack Software Contractor
 * Frontend Engineer @ Abakus Inc
 * Full Stack Dev @ 500 Miles
-* Linux Kernel Intern @ Yahoo 
+* Linux Kernel Intern @ Yahoo
 * Intern @ Stanford Linear Accelerator (SLAC)
 
 ### Skillset
@@ -36,6 +36,5 @@ title: Software
 
 [Linkedin profile][soren_link]
 
-
-[alec_link]: https://github.com/vikasagartha/ib-docker 
+[alec_link]: https://github.com/vikasagartha/ib-docker
 [soren_link]: https://www.linkedin.com/in/soren-solari-95b996b
