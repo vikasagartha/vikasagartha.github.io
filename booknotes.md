@@ -13,8 +13,7 @@ I was deeply touched by his bond with Kobe. If you know me, you know how much iv
 
 KG loved conversing with ball boys. The kids were mega psyched to meet an idol. They were full of positive energy. Lesson...don't look down on people, you miss the chance to receive positive energy. I've felt similarly about climbing culture. If you are elitist, quick to write off gumbies, avoid people of different cultures/politics, etc....you stand to lose positive energy. To me, the art of climbing movement transcends level, culture, politics, etc. I climb with all sorts of humans. I've heard (via 3rd person), "dude, i don't get why Vikas climbs with that guy...". Fine by me, ill take the free psych. When you've climbed long enough, you see climbing friends come and go. Injuries, physical burnout, driving fatigue, depression, workload, sickness, age, parenting responsibilities....humans fall into these traps. Psych is precious. Don't pass up psych.
 
-I respect Charles Barkley.
-> Anytime you're Black, you got to stand up for other people. Cause Black people know what discrimination is like. And if you're in a position of power, you got to always stand up against discrimination. I'm never gonna sit back and let discrimination happen on my watch.
+> Anytime you're Black, you got to stand up for other people. Cause Black people know what discrimination is like. And if you're in a position of power, you got to always stand up against discrimination. I'm never gonna sit back and let discrimination happen on my watch. (Charles Barkley)
 
  Silence. Less is more.
 
@@ -26,8 +25,7 @@ The purpose of the big 3 was to defeat the double team. If you can swing the bal
 
 KG had a foreshadowing experience while in a Chicago gym. He calls it "Cosmic Coincidence". Gets called down by a security guard to ball against Jordan and Pippen. Isaiah Thomas happens to see it and tells him "you're NBA ready right now"...totally changes KG's outlook on life/college/career.
 
-Regarding AI:
-> Like me, he was about to mess up the matrix.
+> Like me, he was about to mess up the matrix. (KG regarding AI)
 
 Priorities. He's got a game against Jordan the next day. Friend is in the hospital. Stays up all night. I like how he didn't give a fuck about sleep before a big game. I wanna look back on my life and know that I carried myself like he did in that moment.
 
