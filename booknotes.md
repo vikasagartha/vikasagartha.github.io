@@ -5,7 +5,7 @@ title: Book Notes
 
 ## KG: A to Z
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/41QrKsS5LDL._SX327_BO1,204,203,200_.jpg" style='margin: 1em; float:left' width="250"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/41QrKsS5LDL._SX327_BO1,204,203,200_.jpg" style='margin: 1em; float:left' width="25%"/>
 
 KG's genius extends far beyond basketball. He's a philosopher. I highly recommend this book.
 
