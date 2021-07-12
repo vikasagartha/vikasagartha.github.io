@@ -3,6 +3,34 @@ permalink: /booknotes
 title: Book Notes
 ---
 
+## Maybe you should talk to someone
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/81k9Uam6RLL.jpg" style='margin: 1em; float:left' width="25%"/>
+
+This book illuminates the value of therapy. The story was captivating. And profound. It dissects death, loss, love, purpose...deep shit
+
+In retrospect, I was depressed in college. Everyday i would wake up and think, "i just have to get the day so i can watch TV at night". I hated my life.
+
+The most powerful truths are the ones we come to on our own. Therapists should lead people to the truth. Same with teachers and mentors.
+
+Happiness = Reality - Expectations
+
+Anger is the tip of the iceberg. When a person gets angry, dissect the deeper emotions at play.
+
+Humans need touch
+
+Alot of great sex happens in problematic relationships
+
+> No problem can be solved from the level of consciousness that created it (Einstein)
+
+> Resistance is a therapist's friend. Don't fight it - follow it. 
+
+When you waste time, remember your mortality. You will die soon. Remember that next time you scroll through social media.
+
+> Is there anything that makes us feel more vulnerable than asking someone, Do you like me?
+
+Husband learns of wife's terminal cancer. First words: "Jesus, I love you so much." People facing loss don't want sympathy.
+
 ## KG: A to Z
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41QrKsS5LDL._SX327_BO1,204,203,200_.jpg" style='margin: 1em; float:left' width="25%"/>
