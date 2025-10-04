@@ -15,10 +15,10 @@ Full Stack Software Engineer with expertise in React, Node.js, and data visualiz
     * Astrophysics research
 
 ### Software Experience
-* Data Scientist @ Ironcloud
-    * Designed and deployed clustering algorithms to detect anomalies in system logs, improving monitoring accuracy and reducing false positives.
 * Full Stack Software Engineer @ Monger Inc
+    * Led backend team in onboarding big data clients using Apache Spark and SQL
     * Led frontend team in developing and maintaining an AngularJS + Java e-commerce platform serving thousands of users
+    * Implemented a content based recommendation system using scikit-learn
     * Mentored junior engineers and collaborated with designers to deliver high-quality features on time
     * Optimized frontend performance, improving page load speed and overall user experience
 * Full Stack Software Contractor
@@ -43,9 +43,10 @@ Full Stack Software Engineer with expertise in React, Node.js, and data visualiz
     * Contributed to astrophysics research by delivering efficient, reliable data visualization tools
 
 ### Software Skillset
-* Languages & Frameworks: JavaScript (React, AngularJS, Node.js, TypeScript), Python, Clojure, Elm
+* Data Processing & Analytics: Apache Spark, Pyspark, SQL, Scikit-learn
+* Languages & Frameworks: Python, JavaScript (React, AngularJS, Node.js, TypeScript), Clojure, Elm
 * Data Visualization: D3.js, Recharts
-* Cloud & Architecture: AWS, GraphQL, Serverless, Redux, RxJS
+* Cloud & Architecture: AWS, Docker, GraphQL, Serverless, Redux, RxJS
 * Other: Machine Learning, Algorithmic Trading
 
 ### Testimonials
